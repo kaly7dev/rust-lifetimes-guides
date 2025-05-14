@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "examples/example1_simple_scope",
+    "examples/example2_struct_borrow",
+    "examples/example3_generic_lifetimes",
+]
